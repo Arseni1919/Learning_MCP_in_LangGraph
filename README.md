@@ -1,4 +1,4 @@
-# Learning MCP + LangChain
+# Learning MCP + LangGraph
 
 Servers:
 ```python

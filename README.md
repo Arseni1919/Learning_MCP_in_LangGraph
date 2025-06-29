@@ -1,6 +1,6 @@
 # Learning MCP + LangGraph
 
-## Servers:
+## Servers
 
 ### `stdio`
 
@@ -39,7 +39,7 @@ if __name__ == "__main__":
     mcp.run(transport="streamable-http")
 ```
 
-## Client Sync:
+## Client Sync
 
 ```python
 from langchain_mcp_adapters.client import MultiServerMCPClient
@@ -96,7 +96,7 @@ if __name__ == '__main__':
     main_3()
 ```
 
-## Client Async:
+## Client Async
 
 ```python
 from langchain_mcp_adapters.client import MultiServerMCPClient
